@@ -1,0 +1,39 @@
+html {
+  font-family: Helvetica, sans-serif;
+  color: DimGray;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: Khaki;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: White;
+}
+
+strong {
+  font-weight: bold;
+  color: Blue;
+}
+
+.header {
+  background-color: RosyBrown;
+  background-image: url("../images/bg.jpeg");
+}
+
+.brushes h2 {
+  background-color: MediumSpringGreen;
+}
+
+.frames h2 {
+  background-color: LightCoral;
+}
+
+.paint h2 {
+  background-color: SkyBlue;
+}
